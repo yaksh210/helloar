@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/helloar/static/css/main.7a925843.css",
-    "main.js": "/helloar/static/js/main.99077e22.js",
-    "index.html": "/helloar/index.html",
-    "main.7a925843.css.map": "/helloar/static/css/main.7a925843.css.map",
-    "main.99077e22.js.map": "/helloar/static/js/main.99077e22.js.map"
+    "main.css": "/static/css/main.7a925843.css",
+    "main.js": "/static/js/main.99077e22.js",
+    "index.html": "/index.html",
+    "main.7a925843.css.map": "/static/css/main.7a925843.css.map",
+    "main.99077e22.js.map": "/static/js/main.99077e22.js.map"
   },
   "entrypoints": [
     "static/css/main.7a925843.css",
